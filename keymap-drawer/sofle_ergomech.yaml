@@ -3,7 +3,7 @@ layers:
     AltGr+;, '''', LSHFT, Z, X, C, V, B, N, M, ',', ., /, RSHFT, MUTE, LGUI, LALT, LCTRL, raise, RET, SPACE, lower, RCTRL, RALT, RGUI, ENTER, RIGHT, UP ARROW, LEFT,
     DOWN]
   lower:
-  - {t: ▽, type: trans}
+  - '&studio_unlock'
   - F1
   - F2
   - F3
