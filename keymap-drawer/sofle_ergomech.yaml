@@ -13,7 +13,7 @@ layers:
   - '9'
   - '0'
   - '-'
-  - ESC
+  - TAB
   - Q
   - W
   - E
@@ -25,7 +25,7 @@ layers:
   - O
   - P
   - BSPC
-  - TAB
+  - ESC
   - {t: A, h: Alt+A}
   - S
   - {t: D, h: Ctl+LEFT CONTROL}
