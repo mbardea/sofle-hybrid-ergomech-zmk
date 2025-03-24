@@ -56,11 +56,11 @@ layers:
   - {t: SPACE, h: LWIN}
   - MUTE
   - MUTE
-  - SPACE
-  - lower
-  - RCTRL
-  - RALT
-  - RGUI
+  - {t: ENTER, h: RIGHT GUI}
+  - {t: SPACE, h: lower}
+  - RIGHT GUI
+  - RIGHT CONTROL
+  - RIGHT ALT
   - ENTER
   - RIGHT
   - UP ARROW
