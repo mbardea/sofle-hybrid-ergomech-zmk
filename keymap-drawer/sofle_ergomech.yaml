@@ -49,12 +49,13 @@ layers:
   - .
   - /
   - RSHFT
+  - LEFT ALT
+  - LEFT CONTROL
+  - Sft+LEFT GUI
+  - {t: BACKSPACE, h: raise}
+  - {t: SPACE, h: LWIN}
   - MUTE
-  - LGUI
-  - LALT
-  - LCTRL
-  - raise
-  - RET
+  - MUTE
   - SPACE
   - lower
   - RCTRL
@@ -64,7 +65,6 @@ layers:
   - RIGHT
   - UP ARROW
   - LEFT
-  - DOWN
   lower:
   - '&studio_unlock'
   - F1
@@ -121,8 +121,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - A
@@ -182,8 +182,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -247,12 +247,12 @@ layers:
   - RGB TOG
   - ''
   - ''
-  - ''
   - {type: held}
   - ''
   - ''
-  - {type: held}
   - ''
+  - ''
+  - {type: held}
   - ''
   - ''
   - A
