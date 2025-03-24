@@ -45,7 +45,7 @@
 &kp ESC     &kp Q        &kp W     &kp E                   &kp R             &kp T    &kp Y      &kp U                  &kp I         &kp O     &kp P                &kp BSPC
 &kp TAB     &mt LA(A) A  &kp S     &mt LC(LEFT_CONTROL) D  &mt LEFT_SHIFT F  &kp G    &kp H      &mt RS(RIGHT_SHIFT) J  &mt RC(K) K   &kp L     &mt RA(RIGHT_ALT) L  &kp SQT
 &kp LSHFT   &kp Z        &kp X     &kp C                   &kp V             &kp B    &kp N      &kp M                  &kp COMMA     &kp DOT   &kp FSLH             &kp RSHFT
-&kp C_MUTE  &kp LGUI     &kp LALT  &kp LCTRL               &mo 2             &kp RET  &kp SPACE  &mo 1                  &kp RCTRL     &kp RALT  &kp RGUI
+&kp LGUI    &kp LALT     &kp LCTRL &mo 2                   &kp RET           &kp C_MUTE &kp C_MUTE &kp SPACE  &mo 1                  &kp RCTRL     &kp RALT  &kp RGUI
                                                                                       &kp ENTER  &kp RIGHT              &kp UP_ARROW  &kp LEFT  &kp DOWN
             >;
 
