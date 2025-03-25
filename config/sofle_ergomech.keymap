@@ -15,11 +15,7 @@
 #define RAISE 2
 #define ADJUST 3
 
-&mt {
-    tapping-term-ms = <250>;
-    require-prior-idle-ms = <100>;
-    flavor = "tap-preferred";
-};
+&mt { flavor = "tap-preferred"; };
 
 / {
     // Activate ADJUST layer by pressing raise and lower
