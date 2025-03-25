@@ -16,7 +16,7 @@
 #define ADJUST 3
 
 &mt {
-    tapping-term-ms = <300>;
+    tapping-term-ms = <230>;
     quick-tap-ms = <100>;
     require-prior-idle-ms = <200>;
 };
