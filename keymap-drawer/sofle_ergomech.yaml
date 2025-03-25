@@ -51,7 +51,7 @@ layers:
   - RSHFT
   - LEFT ALT
   - LEFT CONTROL
-  - Sft+LEFT GUI
+  - LEFT GUI
   - {t: BACKSPACE, h: raise}
   - {t: SPACE, h: LWIN}
   - MUTE
