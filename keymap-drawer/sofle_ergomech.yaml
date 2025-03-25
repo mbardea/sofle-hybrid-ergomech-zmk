@@ -32,10 +32,10 @@ layers:
   - {t: F, h: LEFT SHIFT}
   - G
   - H
-  - {t: J, h: Sft+RIGHT SHIFT}
-  - {t: K, h: Ctl+K}
+  - {t: J, h: RIGHT SHIFT}
+  - {t: K, h: LEFT CONTROL}
   - L
-  - {t: L, h: AltGr+RIGHT ALT}
+  - {t: L, h: RIGHT ALT}
   - ''''
   - LSHFT
   - Z
