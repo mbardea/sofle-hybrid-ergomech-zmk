@@ -35,7 +35,7 @@ layers:
   - {t: J, h: RIGHT SHIFT}
   - {t: K, h: LEFT CONTROL}
   - L
-  - {t: L, h: RIGHT ALT}
+  - {t: ;, h: RIGHT ALT}
   - ''''
   - LSHFT
   - Z
