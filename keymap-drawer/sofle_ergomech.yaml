@@ -28,7 +28,7 @@ layers:
   - ESC
   - {t: A, h: Alt+A}
   - S
-  - {t: D, h: Ctl+LEFT CONTROL}
+  - {t: D, h: LEFT CONTROL}
   - {t: F, h: LEFT SHIFT}
   - G
   - H
