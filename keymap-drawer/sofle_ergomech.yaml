@@ -149,11 +149,11 @@ layers:
   - CMENU
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - INSERT
   - PG UP
   - {t: ▽, type: trans}
   - HOME
-  - '0'
+  - {t: ▽, type: trans}
   - BACKSPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -168,10 +168,10 @@ layers:
   - DEL
   - BSPC
   - {t: ▽, type: trans}
-  - UNDO
-  - CUT
-  - COPY
-  - PASTE
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - PAGE DOWN
