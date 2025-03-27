@@ -156,9 +156,9 @@ layers:
   - '0'
   - BACKSPACE
   - {t: ▽, type: trans}
-  - LALT
-  - LCTRL
-  - LSHFT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - CLCK
   - LEFT
