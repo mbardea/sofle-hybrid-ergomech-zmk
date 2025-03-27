@@ -51,14 +51,14 @@ layers:
   - RSHFT
   - LEFT ALT
   - LEFT CONTROL
-  - LEFT GUI
+  - '4'
   - {t: BACKSPACE, h: raise}
   - {t: SPACE, h: LWIN}
   - MUTE
   - MUTE
   - {t: ENTER, h: RIGHT GUI}
   - {t: SPACE, h: lower}
-  - RIGHT GUI
+  - adjust
   - RIGHT CONTROL
   - RIGHT ALT
   - ENTER
@@ -149,21 +149,21 @@ layers:
   - CMENU
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - PG UP
-  - PG UP
-  - UP
+  - {t: ▽, type: trans}
   - HOME
   - '0'
-  - {t: ▽, type: trans}
+  - BACKSPACE
   - {t: ▽, type: trans}
   - LALT
   - LCTRL
   - LSHFT
   - {t: ▽, type: trans}
   - CLCK
-  - PG DN
   - LEFT
-  - DOWN
+  - DOWN ARROW
+  - UP ARROW
   - RIGHT
   - DEL
   - BSPC
@@ -247,13 +247,13 @@ layers:
   - RGB TOG
   - ''
   - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {type: held}
-  - ''
-  - ''
-  - ''
-  - ''
-  - {type: held}
-  - ''
   - ''
   - A
   - B
@@ -282,6 +282,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - (
+  - )
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -292,6 +294,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - '{'
+  - '}'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -302,16 +306,12 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - '['
+  - ']'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
