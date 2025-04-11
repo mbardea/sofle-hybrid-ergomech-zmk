@@ -59,7 +59,7 @@ layers:
   - {t: ENTER, h: RIGHT GUI}
   - {t: SPACE, h: lower}
   - adjust
-  - RIGHT CONTROL
+  - adjust
   - RIGHT ALT
   - ENTER
   - RIGHT
