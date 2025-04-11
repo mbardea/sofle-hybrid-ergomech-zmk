@@ -202,12 +202,12 @@ layers:
   - {t: BT, h: '2'}
   - {t: BT, h: '3'}
   - {t: BT, h: '4'}
-  - OUT BLE
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - ''
   - OUT USB
-  - ''
-  - ''
-  - ''
-  - ''
+  - OUT BLE
   - EP TOG
   - RGB HUD
   - RGB HUI
