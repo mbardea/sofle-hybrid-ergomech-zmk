@@ -25,8 +25,8 @@
         compatible = "zmk,conditional-layers";
 
         adjust_layer {
-            if-layers = <LOWER RAISE>;
-            then-layer = <ADJUST>;
+            if-layers = <1 2>;
+            then-layer = <3>;
         };
     };
 
@@ -139,17 +139,6 @@
 &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans        &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans
 &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans            &trans             &trans
                                                                                     &trans        &trans        &trans        &trans
-            >;
-        };
-
-        layer_5 {
-            bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-                                                &trans  &trans  &trans  &trans  &trans
             >;
         };
     };
