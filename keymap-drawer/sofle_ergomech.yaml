@@ -61,10 +61,6 @@ layers:
   - adjust
   - RIGHT CONTROL
   - RIGHT ALT
-  - ENTER
-  - RIGHT
-  - UP ARROW
-  - LEFT
   lower:
   - '&studio_unlock'
   - F1
@@ -126,10 +122,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - A
-  - B
-  - C
-  - D
-  - E
   raise:
   - BT CLR
   - {t: BT, h: '0'}
@@ -191,10 +183,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - A
-  - B
-  - C
-  - D
-  - E
   adjust:
   - BT CLR
   - {t: BT, h: '0'}
@@ -256,10 +244,6 @@ layers:
   - {type: held}
   - ''
   - ''
-  - B
-  - C
-  - D
-  - E
   '4':
   - OUT BLE
   - {t: ▽, type: trans}
@@ -312,10 +296,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
