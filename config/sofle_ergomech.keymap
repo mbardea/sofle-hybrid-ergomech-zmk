@@ -59,7 +59,6 @@
 &kp ESC       &mt LA(A) A       &kp S   &mt LEFT_CONTROL D  &mt LEFT_SHIFT F  &kp G       &kp H       &mt RIGHT_SHIFT J    &mt LEFT_CONTROL K  &kp L     &mt RIGHT_ALT SEMICOLON  &kp SQT
 &kp LSHFT     &kp Z             &kp X   &kp C               &kp V             &kp B       &kp N       &kp M                &kp COMMA           &kp DOT   &kp FSLH                 &kp RSHFT
 &kp LEFT_ALT  &kp LEFT_CONTROL  &mo 4   &lt 2 BACKSPACE     &mt LWIN SPACE    &kp C_MUTE  &kp C_MUTE  &mt RIGHT_GUI ENTER  &lt 1 SPACE         &mo 3     &kp RIGHT_CONTROL        &kp RIGHT_ALT
-                                                                                          &kp ENTER   &kp RIGHT            &kp UP_ARROW        &kp LEFT
             >;
 
             sensor-bindings =
@@ -84,7 +83,6 @@
 &kp PLUS        &kp EXCL   &kp AT     &kp HASH  &kp DLLR  &kp PRCNT  &kp CARET  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp MINUS
 &trans          &kp TILDE  &kp MINUS  &kp PLUS  &kp LBRC  &kp RBRC   &kp LBKT   &kp RBKT       &kp SEMI      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans
 &trans          &trans     &trans     &trans    &trans    &trans     &trans     &trans         &trans        &trans                &trans                 &kp A
-                                                                     &kp B      &kp C          &kp D         &kp E
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
@@ -106,7 +104,6 @@
 &trans      &trans        &trans        &trans        &trans        &kp CLCK      &kp LEFT    &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT  &kp DEL  &kp BSPC
 &trans      &trans        &trans        &trans        &trans        &trans        &trans      &kp PAGE_DOWN   &trans        &kp END    &trans   &trans
 &trans      &trans        &trans        &trans        &trans        &trans        &trans      &trans          &trans        &trans     &trans   &kp A
-                                                                                  &kp B       &kp C           &kp D         &kp E
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
@@ -127,7 +124,6 @@
 &none              &rgb_ug RGB_BRD  &rgb_ug RGB_BRI  &none            &none            &none            &none   &none   &none  &none  &none         &none
 &none              &none            &none            &none            &none            &none            &none   &none   &none  &none  &none         &none
 &rgb_ug RGB_TOG    &none            &none            &none            &none            &none            &none   &none   &none  &none  &none         &none
-                                                                                                        &kp B   &kp C   &kp D  &kp E
             >;
         };
 
@@ -138,7 +134,6 @@
 &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans        &kp LEFT_BRACE    &kp RIGHT_BRACE    &trans
 &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans        &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans
 &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans        &trans            &trans             &trans
-                                                                                    &trans        &trans        &trans        &trans
             >;
         };
     };
