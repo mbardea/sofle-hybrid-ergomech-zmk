@@ -23,24 +23,6 @@
 
     conditional_layers { compatible = "zmk,conditional-layers"; };
 
-
-
-    behaviors {
-        battery_report: behavior_macro {
-            label = "Battery Report";
-            #binding-cells = <0>;
-            bindings = <
-                &macro_press
-                "Battery: "
-                $sensor_read(battery)
-                "%"
-                " | Peripheral: "
-                $sensor_read(peripheral_battery)
-                "%"
-            >;
-        };
-    };
-
     macros {
         reisub_macro: reisub_macro {
             compatible = "zmk,behavior-macro";
