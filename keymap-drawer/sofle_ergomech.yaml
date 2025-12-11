@@ -266,11 +266,11 @@ layers:
   - '6'
   - '7'
   - '8'
-  - '9'
-  - '0'
+  - KP LEFT PARENTHESIS
+  - KP RIGHT PARENTHESIS
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - X
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
