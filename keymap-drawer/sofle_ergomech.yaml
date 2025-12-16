@@ -123,14 +123,14 @@ layers:
   - {t: ▽, type: trans}
   - A
   raise:
-  - BT CLR
+  - {t: ▽, type: trans}
   - {t: BT, h: '0'}
   - {t: BT, h: '1'}
   - {t: BT, h: '2'}
   - {t: BT, h: '3'}
   - {t: BT, h: '4'}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - BT CLR ALL
+  - BT CLR
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - OUT USB
@@ -163,7 +163,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - DELETE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - PAGE DOWN
