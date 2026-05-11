@@ -164,7 +164,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - DELETE
-  - {t: ▽, type: trans}
+  - DELETE
   - {t: ▽, type: trans}
   - PAGE DOWN
   - {t: ▽, type: trans}
