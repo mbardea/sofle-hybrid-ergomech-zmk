@@ -55,7 +55,7 @@ layers:
   - {t: BACKSPACE, h: raise}
   - {t: SPACE, h: LWIN}
   - MUTE
-  - MUTE
+  - RIGHT ALT
   - {t: ENTER, h: RIGHT GUI}
   - {t: SPACE, h: lower}
   - adjust
