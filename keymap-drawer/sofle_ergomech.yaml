@@ -55,7 +55,6 @@ layers:
   - {t: BACKSPACE, h: raise}
   - {t: SPACE, h: LWIN}
   - MUTE
-  - MUTE
   - {t: ENTER, h: RIGHT GUI}
   - {t: SPACE, h: lower}
   - adjust
@@ -109,7 +108,6 @@ layers:
   - ;
   - '['
   - ']'
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -182,7 +180,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   adjust:
   - BT CLR
   - {t: BT, h: '0'}
@@ -233,7 +230,6 @@ layers:
   - ''
   - ''
   - RGB TOG
-  - ''
   - ''
   - ''
   - ''
@@ -296,7 +292,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
