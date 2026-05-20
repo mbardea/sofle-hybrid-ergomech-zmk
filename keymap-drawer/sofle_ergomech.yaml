@@ -55,10 +55,12 @@ layers:
   - {t: BACKSPACE, h: raise}
   - {t: SPACE, h: LWIN}
   - MUTE
+  - MUTE
   - {t: ENTER, h: RIGHT GUI}
   - {t: SPACE, h: lower}
   - adjust
   - RIGHT CONTROL
+  - RIGHT ALT
   - RIGHT ALT
   lower:
   - '&studio_unlock'
@@ -116,10 +118,12 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - A
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   raise:
   - {t: ▽, type: trans}
   - {t: BT, h: '0'}
@@ -173,6 +177,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -237,7 +243,9 @@ layers:
   - ''
   - ''
   - ''
+  - ''
   - {type: held}
+  - ''
   - ''
   - ''
   '4':
@@ -292,6 +300,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
