@@ -1,6 +1,6 @@
 file_format: "1"
 id: sofle_ergomech
-name: SofleMB
+name: Sofle MB
 type: shield
 url: https://github.com/ergomechstore/sofle-hybrid-ergomech
 requires: [pro_micro]
