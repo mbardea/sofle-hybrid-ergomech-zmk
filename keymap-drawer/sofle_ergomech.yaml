@@ -61,7 +61,6 @@ layers:
   - adjust
   - RIGHT CONTROL
   - RIGHT ALT
-  - RIGHT ALT
   lower:
   - '&studio_unlock'
   - F1
@@ -123,7 +122,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   raise:
   - {t: ▽, type: trans}
   - {t: BT, h: '0'}
@@ -153,7 +151,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - CAPSLOCK
+  - {t: ▽, type: trans}
   - CLCK
   - LEFT
   - DOWN ARROW
@@ -165,7 +163,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - DELETE
+  - {t: ▽, type: trans}
   - DELETE
   - {t: ▽, type: trans}
   - PAGE DOWN
@@ -177,7 +175,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -247,7 +244,6 @@ layers:
   - {type: held}
   - ''
   - ''
-  - ''
   '4':
   - OUT BLE
   - {t: ▽, type: trans}
@@ -300,7 +296,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
